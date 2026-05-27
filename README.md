@@ -1,10 +1,6 @@
 - 👋 Hello, I’m @Mitchenya! || Mitchell!
-- 👀 I’m passionate about enhancing my coding skills and practices.
-- 🌱 I’m currently exploring JavaScript, TypeScript, C# and Python, along with frameworks like React and Django, as well as tools like Expo, Node.js, and Express.
-- 💞 I’m eager to collaborate on projects that will help broaden my knowledge and skills.
 - 📫 Feel free to reach out to me at:
 [LinkedIn](https://www.linkedin.com/in/mitchenya/) || Mitchellrjshepherd@outlook.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: An average cloud weighs approximately 500,000 kg!
 
 <!---
